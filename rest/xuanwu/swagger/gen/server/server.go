@@ -24,7 +24,7 @@ import (
 	flags "github.com/jessevdk/go-flags"
 	"golang.org/x/net/netutil"
 
-	"github.com/ExcitingFrog/xuanwu/swagger/gen/server/operations"
+	"github.com/ExcitingFrog/go-proto-lib/rest/xuanwu/swagger/gen/server/operations"
 )
 
 const (

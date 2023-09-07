@@ -10,7 +10,7 @@ import (
 	"github.com/go-openapi/runtime"
 	"github.com/go-openapi/runtime/middleware"
 
-	"github.com/ExcitingFrog/xuanwu/swagger/gen/server/operations"
+	"github.com/ExcitingFrog/go-proto-lib/rest/xuanwu/swagger/gen/server/operations"
 )
 
 //go:generate swagger generate server --target ../../gen --name XuanWuService --spec ../../application.yaml --server-package server --principal interface{} --exclude-main

@@ -10,7 +10,7 @@ import (
 
 	"github.com/go-openapi/runtime"
 
-	"github.com/ExcitingFrog/xuanwu/swagger/gen/models"
+	"github.com/ExcitingFrog/go-proto-lib/rest/xuanwu/swagger/gen/models"
 )
 
 // HelloOKCode is the HTTP code returned for type HelloOK
